@@ -1,6 +1,6 @@
 # Expense Tracker
+A comprehensive full-stack expense management web application that empowers users to efficiently track, categorize, and analyze their daily expenses. Built with modern Spring Boot architecture and MySQL database, featuring a responsive user interface with real-time statistics, advanced filtering capabilities, and complete CRUD operations for seamless financial management.
 
-A simple expense tracking web application built with Spring Boot and MySQL.
 
 ## Features
 
